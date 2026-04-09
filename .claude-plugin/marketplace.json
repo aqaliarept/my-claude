@@ -1,0 +1,13 @@
+{
+  "name": "my-claude",
+  "owner": {
+    "name": "aqaliarept"
+  },
+  "plugins": [
+    {
+      "name": "my-claude",
+      "source": "./",
+      "description": "My personal Claude Code skills and agents"
+    }
+  ]
+}
